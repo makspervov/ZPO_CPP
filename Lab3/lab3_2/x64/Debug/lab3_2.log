@@ -1,0 +1,4 @@
+﻿  lab3_2.cpp
+C:\Users\maksi\Documents\Semestr 5\C++\Lab3\lab3_2\lab3_2.cpp(45,55): error C2672: 'minElement': no matching overloaded function found
+C:\Users\maksi\Documents\Semestr 5\C++\Lab3\lab3_2\lab3_2.cpp(45,75): error C2784: 'T minElement(T *,const int [size])': could not deduce template argument for 'const int [size]' from 'int'
+C:\Users\maksi\Documents\Semestr 5\C++\Lab3\lab3_2\lab3_2.cpp(8): message : see declaration of 'minElement'
