@@ -1,0 +1,7 @@
+﻿  lab 5.cpp
+C:\Users\maksi\Documents\Semestr 5\C++\lab 5\lab 5.cpp(91,26): error C2015: too many characters in constant
+C:\Users\maksi\Documents\Semestr 5\C++\lab 5\lab 5.cpp(91,25): error C3445: copy-list-initialization of 'std::vector<std::string,std::allocator<std::string>>' cannot use an explicit constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(667,5): message : see declaration of 'std::vector<std::string,std::allocator<std::string>>::vector'
+C:\Users\maksi\Documents\Semestr 5\C++\lab 5\lab 5.cpp(92,26): error C2015: too many characters in constant
+C:\Users\maksi\Documents\Semestr 5\C++\lab 5\lab 5.cpp(92,25): error C3445: copy-list-initialization of 'std::vector<std::string,std::allocator<std::string>>' cannot use an explicit constructor
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\vector(667,5): message : see declaration of 'std::vector<std::string,std::allocator<std::string>>::vector'

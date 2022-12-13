@@ -1,0 +1,3 @@
+﻿  lab6.cpp
+C:\Users\maksi\Documents\Semestr 5\C++\boost_1_80_0\boost\bind.hpp(41): message : The practice of declaring the Bind placeholders (_1, _2, ...) in the global namespace is deprecated. Please use <boost/bind/bind.hpp> + using namespace boost::placeholders, or define BOOST_BIND_GLOBAL_PLACEHOLDERS to retain the current behavior.
+  lab6.vcxproj -> C:\Users\maksi\Documents\Semestr 5\C++\lab6\x64\Debug\lab6.exe
