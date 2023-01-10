@@ -1,0 +1,59 @@
+﻿  main.cpp
+C:\Users\maksi\OneDrive\Документи\Semestr 5\C++\lab12\main.cpp(59,22): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\maksi\OneDrive\Документи\Semestr 5\C++\lab12\main.cpp(91,22): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\numeric(25,105): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\maksi\OneDrive\Документи\Semestr 5\C++\lab12\main.cpp(135,44): message : see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>>>,int,statystyka::<lambda_2>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<std::string>>>,
+              _Fn=statystyka::<lambda_2>
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\tuple(522,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\maksi\OneDrive\Документи\Semestr 5\C++\lab12\main.cpp(154,69): message : see reference to function template instantiation 'std::tuple<int &,double &,std::string &> &std::tuple<int &,double &,std::string &>::operator =<size_t,double,std::string,0>(std::tuple<size_t,double,std::string> &&) noexcept' being compiled
+C:\Users\maksi\OneDrive\Документи\Semestr 5\C++\lab12\main.cpp(154,52): message : see reference to function template instantiation 'std::tuple<int &,double &,std::string &> &std::tuple<int &,double &,std::string &>::operator =<size_t,double,std::string,0>(std::tuple<size_t,double,std::string> &&) noexcept' being compiled
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(680,68): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(852,1): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const char(&)[13],int,double>(_Alloc &,_Objty *const ,const char (&)[13],int &&,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Car>,
+              _Ty=Car,
+              _Objty=Car
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(863,36): message : see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,const char(&)[13],int,double>(_Alloc &,_Objty *const ,const char (&)[13],int &&,double &&)' being compiled
+          with
+          [
+              _Alloc=std::allocator<Car>,
+              _Ty=Car,
+              _Objty=Car
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(839,1): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<const char(&)[13],int,double>(const char (&)[13],int &&,double &&)' being compiled
+          with
+          [
+              _Ty=Car
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(845,13): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<const char(&)[13],int,double>(const char (&)[13],int &&,double &&)' being compiled
+          with
+          [
+              _Ty=Car
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(925,1): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<const char(&)[13],int,double>(const char (&)[13],int &&,double &&)' being compiled
+          with
+          [
+              _Ty=Car
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(927,14): message : see reference to function template instantiation '_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<const char(&)[13],int,double>(const char (&)[13],int &&,double &&)' being compiled
+          with
+          [
+              _Ty=Car
+          ]
+C:\Users\maksi\OneDrive\Документи\Semestr 5\C++\lab12\main.cpp(98,48): message : see reference to function template instantiation 'void std::vector<Car,std::allocator<Car>>::emplace_back<const char(&)[13],int,double>(const char (&)[13],int &&,double &&)' being compiled
+  lab12.vcxproj -> C:\Users\maksi\OneDrive\Документи\Semestr 5\C++\lab12\x64\Debug\lab12.exe
