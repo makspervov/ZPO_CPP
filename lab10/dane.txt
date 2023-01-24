@@ -1,0 +1,6 @@
+Maksym;Pervov;19;123456789;test-123.example@domain.com;
+Ania;Nowak-Kowalska;22;987654321;ania.kowalska@outlook.com;
+Jon;Doe;34;383738248;jon.doe@amazon.com;
+Adam;Kowal;32;123456789;a.kowal@gmail.com;
+Dane;Dane;34;123456789;dane_moje.dane@domena.pl;
+Test;Test;20;123456789;test_test.test123@test.com;
